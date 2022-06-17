@@ -1,0 +1,23 @@
+{
+  "name": "vezba1706",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1milicanikolic/vezba1706.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1milicanikolic/vezba1706/issues"
+  },
+  "homepage": "https://github.com/1milicanikolic/vezba1706#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^5.5.3",
+    "cypress": "^10.1.0"
+  }
+}
